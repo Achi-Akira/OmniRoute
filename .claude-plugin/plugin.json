@@ -1,0 +1,9 @@
+{
+  "name": "omniroute",
+  "version": "1.0.0",
+  "description": "Drive an OmniRoute AI gateway from Claude: 46 skills for its REST API and CLI, covering auth, providers, models, routing combos, API keys, budgets, usage logs, caching, compression, MCP, A2A, tunnels, backups and settings.",
+  "homepage": "https://github.com/diegosouzapw/OmniRoute",
+  "repository": "https://github.com/Achi-Akira/OmniRoute",
+  "license": "MIT",
+  "keywords": ["ai-gateway", "llm", "routing", "openai-compatible", "providers", "mcp", "a2a", "cli"]
+}
